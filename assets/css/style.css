@@ -1,0 +1,23 @@
+.divs{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    margin: 20px;
+}
+
+#azul{
+    background-color: #63a1ff;
+}
+
+#amarillo{
+    background-color: #ffed63;
+}
+
+#verde{
+    background-color: #4eb45f;
+}
+
+#rojo{
+    background-color: #ff3f3f;
+}
+
